@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Way To Job</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="hint_mobile_number">Mobile Number</string>
+    <string name="hint_eduction">Eduction</string>
+    <string name="hint_university_name">University Name</string>
+    <string name="hint_work_exp">Work Experience</string>
+    <string name="hint_upload_cv">Upload Your PDF CV</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_city">City</string>
+    <string name="hint_pincode">Pin Code</string>
+    <string name="hint_state">State</string>
+    <string name="permission_request_message">Storage permission allows us to save pdf.</string>
+
+    <string name="msg_blank_fullname">Full Name can not be blank!</string>
+    <string name="msg_pass_set">Password length at least 6 characters!</string>
+    <string name="msg_blank_mobile_number">Mobile Number can not be blank!</string>
+    <string name="msg_blank_eduction">Eduction can not be blank!</string>
+    <string name="msg_blank_year_of_pass">Year Of Passing can not be blank!</string>
+
+    <string name="msg_blank_univercity">Univercity Name can not be blank!</string>
+    <string name="msg_blank_exprience">Exprience can not be blank!</string>
+    <string name="msg_blank_cv">CV can not be blank!</string>
+    <string name="msg_blank_address">Address can not be blank!</string>
+    <string name="msg_blank_city">City can not be blank!</string>
+
+    <string name="msg_blank_pincode">City can not be blank!</string>
+    <string name="msg_blank_state">State can not be blank!</string>
+
+
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="hint_feedBack">Enter Your FeedBack</string>
+    <string name="text_submit">submit</string>
+    <string name="lbl_select_language">Select Language</string>
+    <string name="lbl_copy_done">Copy Done!!!</string>
+
+    <string name="default_loading_message">Loading...</string>
+
+    <string name="default_internet_message">No internet connection.</string>
+    <string name="lbl_feed_send">Feedback Sent Successfully</string>
+
+    <!--FeedBackActivity -->
+    <string name="lbl_message">FeedBack Message</string>
+    <string name="hint_pass">Passing Year</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_feedback">FeedBack</string>
+    <string name="msg_blank_user_name">User Name can not be blank!</string>
+    <string name="msg_blank_message">Message can not be blank!</string>
+
+    <string name="lbl_submit">Submit</string>
+    <string name="msg_blank_email">Email can not be blank!</string>
+    <string name="msg_valid_email">Enter valid email!</string>
+    <string name="lbl_about_us">About Us</string>
+    <string name="lbl_about_details">dgsdgsgdfg</string>
+
+
+    <!--Logout DialogBox-->
+    <string name="lable_logout">Are you sure you want to logout?</string>
+    <string name="title_yes">Yes</string>
+    <string name="title_no">No</string>
+    <string name="lbl_sign_up">Sign Up</string>
+
+
+    <string name="pos_attitude">dghfdghfghfghfhfh fhjfhjghjgh fhjfhj</string>
+
+
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="lbl_recover_password">Recover Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="oops_data_not_found">OOPS Data Not Found !!!</string>
+    <string name="msg_blank_password">Password can not be blank!</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="lbl_email_with_login">Email with login</string>
+    <string name="user_details">User Details</string>
+    <string name="download_cv">Download CV</string>
+    <string name="share_cv">Share CV</string>
+    <string name="about_application">About Application</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_app">About App</string>
+    <string name="logout">Logout</string>
+</resources>
